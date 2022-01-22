@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border-style: double;
+    border-radius: 10px;
+    background-color:palegreen;
+}
+header a{
+    text-decoration:none;
+}
+h1{
+    border-style: double;
+    border-radius: 10px;
+    background-color:palegreen;
+    text-align-last:center;
+}
+footer{
+    border-style: double;
+    border-radius: 10px;
+    background-color:palegreen;
+}
+nav{
+    border-style: double;
+    border-radius: 10px;
+    text-align-last:center;
+    margin: 10px;
+    background-color:powderblue;
+}
+nav a{
+    padding: 4px;
+    font-size: 20px;
+}
+.gg{
+    border-style: double;
+    border-radius: 10px;
+    background-color:palegreen;
+}
+.dd{
+  border-style: double;
+    border-radius: 10px;
+    background-color:palegreen;  
+}
+.tt{
+    border-style: double;
+    border-radius: 10px;
+    background-color:powderblue;
+}
